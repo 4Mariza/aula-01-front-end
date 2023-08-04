@@ -1,0 +1,16 @@
+.verde{
+    color: green;
+    background-color: plum;
+}
+
+.vermelho{
+    background-color: red;
+    width: 15vw;
+    font-weight: 700;
+}
+
+.azul{
+    background-color: blue;
+    width: 15vw;
+    font-weight: 700;
+}
